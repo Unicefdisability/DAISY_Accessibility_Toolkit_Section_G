@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" >
+<smil>
+	<head>
+		<meta name="dc:identifier" content="21042022" />
+		<meta name="title" content="CHECKLIST 9: Elevators/lifts" />
+		<meta name="dc:title" content="TOOLKIT ON ACCESSIBILITY SECTION G: ACCESSIBILITY CHECKLISTS" />
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:generator" content="Daisy Pipeline" />
+		<meta name="ncc:totalElapsedTime" content="00:00:00" />
+		<meta name="ncc:timeInThisSmil" content="00:00:00" />
+		<layout>
+			<region id="txtView" />
+		</layout>
+	</head>
+	<body>
+		<seq dur="0.000s">
+			<par endsync="last" id="par_2646">
+				<text src="toolkit_g.html#d2e2046" id="txt_2646" />
+			</par>
+			<par endsync="last" id="par_2647">
+				<text src="toolkit_g.html#id_1212" id="txt_2647" />
+			</par>
+			<par endsync="last" id="par_2648">
+				<text src="toolkit_g.html#id_1215" id="txt_2648" />
+			</par>
+			<par endsync="last" id="par_2649">
+				<text src="toolkit_g.html#id_1217" id="txt_2649" />
+			</par>
+			<par endsync="last" id="par_2650">
+				<text src="toolkit_g.html#p32" id="txt_2650" />
+			</par>
+			<par endsync="last" id="par_2651">
+				<text src="toolkit_g.html#id_1218" id="txt_2651" />
+			</par>
+			<par endsync="last" id="par_2652">
+				<text src="toolkit_g.html#id_1219" id="txt_2652" />
+			</par>
+			<par endsync="last" id="par_2653">
+				<text src="toolkit_g.html#id_1220" id="txt_2653" />
+			</par>
+			<par endsync="last" id="par_2654">
+				<text src="toolkit_g.html#id_1221" id="txt_2654" />
+			</par>
+			<par endsync="last" id="par_2655">
+				<text src="toolkit_g.html#id_1224" id="txt_2655" />
+			</par>
+			<par endsync="last" id="par_2656">
+				<text src="toolkit_g.html#id_1225" id="txt_2656" />
+			</par>
+			<par endsync="last" id="par_2657">
+				<text src="toolkit_g.html#id_1226" id="txt_2657" />
+			</par>
+			<par endsync="last" id="par_2658">
+				<text src="toolkit_g.html#id_1227" id="txt_2658" />
+			</par>
+			<par endsync="last" id="par_2659">
+				<text src="toolkit_g.html#id_1230" id="txt_2659" />
+			</par>
+			<par endsync="last" id="par_2660">
+				<text src="toolkit_g.html#id_1231" id="txt_2660" />
+			</par>
+			<par endsync="last" id="par_2661">
+				<text src="toolkit_g.html#id_1237" id="txt_2661" />
+			</par>
+			<par endsync="last" id="par_2662">
+				<text src="toolkit_g.html#id_1238" id="txt_2662" />
+			</par>
+			<par endsync="last" id="par_2663">
+				<text src="toolkit_g.html#id_1244" id="txt_2663" />
+			</par>
+			<par endsync="last" id="par_2664">
+				<text src="toolkit_g.html#id_1245" id="txt_2664" />
+			</par>
+			<par endsync="last" id="par_2665">
+				<text src="toolkit_g.html#id_1252" id="txt_2665" />
+			</par>
+			<par endsync="last" id="par_2666">
+				<text src="toolkit_g.html#id_1253" id="txt_2666" />
+			</par>
+			<par endsync="last" id="par_2667">
+				<text src="toolkit_g.html#id_1259" id="txt_2667" />
+			</par>
+			<par endsync="last" id="par_2668">
+				<text src="toolkit_g.html#id_1260" id="txt_2668" />
+			</par>
+			<par endsync="last" id="par_2669">
+				<text src="toolkit_g.html#id_1266" id="txt_2669" />
+			</par>
+			<par endsync="last" id="par_2670">
+				<text src="toolkit_g.html#id_1267" id="txt_2670" />
+			</par>
+			<par endsync="last" id="par_2671">
+				<text src="toolkit_g.html#p33" id="txt_2671" />
+			</par>
+			<par endsync="last" id="par_2672">
+				<text src="toolkit_g.html#id_1274" id="txt_2672" />
+			</par>
+			<par endsync="last" id="par_2673">
+				<text src="toolkit_g.html#id_1275" id="txt_2673" />
+			</par>
+			<par endsync="last" id="par_2674">
+				<text src="toolkit_g.html#id_1276" id="txt_2674" />
+			</par>
+			<par endsync="last" id="par_2675">
+				<text src="toolkit_g.html#id_1277" id="txt_2675" />
+			</par>
+			<par endsync="last" id="par_2676">
+				<text src="toolkit_g.html#id_1280" id="txt_2676" />
+			</par>
+			<par endsync="last" id="par_2677">
+				<text src="toolkit_g.html#id_1281" id="txt_2677" />
+			</par>
+			<par endsync="last" id="par_2678">
+				<text src="toolkit_g.html#id_1287" id="txt_2678" />
+			</par>
+			<par endsync="last" id="par_2679">
+				<text src="toolkit_g.html#id_1288" id="txt_2679" />
+			</par>
+			<par endsync="last" id="par_2680">
+				<text src="toolkit_g.html#id_1294" id="txt_2680" />
+			</par>
+			<par endsync="last" id="par_2681">
+				<text src="toolkit_g.html#id_1295" id="txt_2681" />
+			</par>
+			<par endsync="last" id="par_2682">
+				<text src="toolkit_g.html#id_1301" id="txt_2682" />
+			</par>
+			<par endsync="last" id="par_2683">
+				<text src="toolkit_g.html#id_1302" id="txt_2683" />
+			</par>
+			<par endsync="last" id="par_2684">
+				<text src="toolkit_g.html#id_1308" id="txt_2684" />
+			</par>
+			<par endsync="last" id="par_2685">
+				<text src="toolkit_g.html#id_1309" id="txt_2685" />
+			</par>
+			<par endsync="last" id="par_2686">
+				<text src="toolkit_g.html#p34" id="txt_2686" />
+			</par>
+			<par endsync="last" id="par_2687">
+				<text src="toolkit_g.html#id_1314" id="txt_2687" />
+			</par>
+			<par endsync="last" id="par_2688">
+				<text src="toolkit_g.html#id_1317" id="txt_2688" />
+			</par>
+			<par endsync="last" id="par_2689">
+				<text src="toolkit_g.html#id_1318" id="txt_2689" />
+			</par>
+			<par endsync="last" id="par_2690">
+				<text src="toolkit_g.html#id_1319" id="txt_2690" />
+			</par>
+			<par endsync="last" id="par_2691">
+				<text src="toolkit_g.html#id_1320" id="txt_2691" />
+			</par>
+			<par endsync="last" id="par_2692">
+				<text src="toolkit_g.html#id_1323" id="txt_2692" />
+			</par>
+			<par endsync="last" id="par_2693">
+				<text src="toolkit_g.html#id_1324" id="txt_2693" />
+			</par>
+			<par endsync="last" id="par_2694">
+				<text src="toolkit_g.html#id_1330" id="txt_2694" />
+			</par>
+			<par endsync="last" id="par_2695">
+				<text src="toolkit_g.html#id_1331" id="txt_2695" />
+			</par>
+			<par endsync="last" id="par_2696">
+				<text src="toolkit_g.html#id_1337" id="txt_2696" />
+			</par>
+			<par endsync="last" id="par_2697">
+				<text src="toolkit_g.html#id_1338" id="txt_2697" />
+			</par>
+			<par endsync="last" id="par_2698">
+				<text src="toolkit_g.html#id_1344" id="txt_2698" />
+			</par>
+			<par endsync="last" id="par_2699">
+				<text src="toolkit_g.html#id_1345" id="txt_2699" />
+			</par>
+			<par endsync="last" id="par_2700">
+				<text src="toolkit_g.html#id_1351" id="txt_2700" />
+			</par>
+			<par endsync="last" id="par_2701">
+				<text src="toolkit_g.html#id_1352" id="txt_2701" />
+			</par>
+			<par endsync="last" id="par_2702">
+				<text src="toolkit_g.html#id_1358" id="txt_2702" />
+			</par>
+			<par endsync="last" id="par_2703">
+				<text src="toolkit_g.html#id_1359" id="txt_2703" />
+			</par>
+			<par endsync="last" id="par_2704">
+				<text src="toolkit_g.html#id_1366" id="txt_2704" />
+			</par>
+			<par endsync="last" id="par_2705">
+				<text src="toolkit_g.html#id_1367" id="txt_2705" />
+			</par>
+			<par endsync="last" id="par_2706">
+				<text src="toolkit_g.html#id_1368" id="txt_2706" />
+			</par>
+			<par endsync="last" id="par_2707">
+				<text src="toolkit_g.html#p35" id="txt_2707" />
+			</par>
+		</seq>
+	</body>
+</smil>
